@@ -14,7 +14,7 @@ export default class HelloIterator extends LightningElement {
         },
         {
             Id: '003848991274589432',
-            Name: 'Jennifer Wu',
+            Name: 'Azizbek Abdumamatov',
             Title: 'CEO'
         }
     ];
